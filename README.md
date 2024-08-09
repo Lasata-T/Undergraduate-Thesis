@@ -5,3 +5,6 @@ This thesis will explore an approach to measuring the cumulative star formation 
 
 ## Persistent Link to Paper
 https://doi.org/10.18130/yk9v-g138
+
+## Additional Notes
+The original data files are too large to upload to the GitHub repository. Please email lasata.tuladhar02@gmail.com if you would like the files, thank you.
